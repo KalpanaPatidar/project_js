@@ -1,0 +1,284 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+html,body{
+    height:100%;
+    width:100%;
+    background-color:white;
+    
+}
+#main{
+   
+    padding-top: 15px;
+    
+}
+
+li a{
+ 
+ display:inline-block;
+ list-style-type: none;
+ text-decoration: none;
+ font-size: larger;
+ font-weight: 100;
+ 
+ color:black;
+
+}
+ li{
+    float:left;
+    padding-left:60px;
+
+
+}
+.nav{
+    width:100%;
+    height:40px;
+    background-color:white;
+    padding: 12px;
+    border-bottom: 1px solid rgb(191, 181, 181);
+}
+ul{
+    list-style-type: none;
+   
+}
+.nav i{
+    padding-left: 450px;
+}
+ #mainlogo img{
+    width:30vh;
+    height:12vh;
+    
+ }
+ #part2 i{
+    color:#ff9900;
+    display:flex;
+    padding-left: 150px;
+    font-size: larger;
+     padding-top: 40px;
+     
+   
+
+}
+#mainlogo{
+    padding-top: 20px;
+    font-weight: 200;
+    
+    
+}
+.image {
+    padding-top:100px;
+    background-image: url(https://livedemo00.template-help.com/wt_51680/images/bg-image-1.jpg);
+    width:100%;
+    height:100%;
+    color:white;
+    object-fit: cover;
+}
+#part3{
+    margin-top:120px;
+    height:100%;
+    width:100%
+    
+    
+   
+}
+  .line1{
+    text-align:center;
+    font-family: "Zilla Slab", "Times New Roman", Times, serif;
+    font-size:50px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    font-size: 60px;
+    font-weight:1%;
+}
+.line2{
+    text-align:center;
+    padding-bottom: 22px;
+    font-size: 18px;
+    font-family:"Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+ .line3{
+    text-align: center;
+    color: #fcad0c;;
+    font-size: 32px;
+    font-family:"Zilla Slab", "Times New Roman", Times, serif;
+    font-weight: 300;
+   
+ } 
+ #order{
+    background-color: #fcad0c;
+    border-color: #fcad0c;
+    color:white;
+    
+    font-size: 30px;
+    margin-top: 30px;
+    
+    border-radius: 6px;
+
+   border-color: none;
+   padding-left: 25px;
+   padding-right:35px;
+   padding-top: 6px;
+   padding-bottom: 6px;
+ }
+
+ .part4{
+    color:#fcad0c;
+    display:inline;
+    line-break:strict;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 300;
+    background-image: url(https://livedemo00.template-help.com/wt_51680/images/bg-image-2.jpg);
+ }  
+ .text1{
+    color:black;
+    padding: 15px;
+    font-size: 30px;
+    font-style: bold;
+    
+ }
+ #part3{
+    line-break:strict;
+    font-size: 16px;
+    padding-top: 40px;
+    font-weight: 300;
+    color:#fcad0c;
+    text-align: center;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+ }
+ #p3{
+    line-break:strict;
+    font-size: 30px;
+    padding-top: 20px;
+    font-weight: 300;
+    color:#fcad0c;
+    text-align: center;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width:100%;
+    height:100%;
+ }
+#part3 i{
+    font-size:30px;
+    margin:0;
+    padding:0;
+
+}
+
+#part5{
+    color:black;
+    
+   
+    
+}
+.bg{
+    background-image: url(https://livedemo00.template-help.com/wt_51680/images/bg-image-2.jpg);
+    background-position-x:100%;
+    background-position-y:100%;
+    
+    font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 1rem;
+    text-align: left;
+   
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+padding-bottom: 500px;
+padding:100px;
+
+
+}
+.bline1{
+ color:rgb(41, 41, 58);
+ font-size: 32px;
+ font-family: Zilla Slab", "Times New Roman", Times, serif";
+ padding: 30px;
+ line-height: 35px;
+ padding-top: 50px;
+ padding-left: 30px;
+}
+.bline2{
+    font-size: 18px;
+    line-height: 1.4;
+    letter-spacing: .03em;
+    padding:15px;
+    line-height: 35px;
+    padding-left: 30px;
+}
+.bline3{
+    margin-top: 12px;
+    letter-spacing: .03em;
+    margin: 0;
+    font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.55556;
+    color: #5e5e63;
+    text-align: left;
+    line-height: 35px;
+    padding: 15px;
+    padding-left: 30px;
+    
+}
+button{
+    background-color: #fcad0c;
+    border-color: #fcad0c;
+    color:white;
+    
+    font-size: 30px;
+    margin-top: 30px;
+    
+    border-radius: 6px;
+
+   border-color: none;
+   padding-left: 25px;
+   padding-right:35px;
+   padding-top: 6px;
+   padding-bottom: 6px;
+    
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.social-media {
+    margin-bottom: 10px;
+}
+
+.social-media a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.social-media a:hover {
+    color: #ffcc00;
+}
+
+footer p {
+    margin: 0;
+}
+
+
